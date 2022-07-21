@@ -39,6 +39,9 @@
             <li class="nav-item">
               <a class="nav-link" href="#contact">Contact</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="lihat.php">Daftar Pemesan</a>
+            </li>
           </ul>
         </div>
       </div>
@@ -68,10 +71,10 @@
         </div>
         <div class="row justify-content-center text-center">
           <div class="col-md-4 mb-3">
-            <p>Sumber Makmur adalah perusahaan jasa rental mobil terpercaya Yogyakarta. Telah melayani lebih dari 100 pelanggan perusahaan. Sumber Makmur hadir 3 kota besar di Indonesia - Sleman, Bantul, Yogyakarta</p>
+            <p>Sumber Makmur adalah perusahaan jasa rental mobil terpercaya Yogyakarta. Telah melayani lebih dari 100 pelanggan perusahaan. Sumber Makmur hadir 3 kota besar di Provinsi DIY - Sleman, Bantul, Yogyakarta</p>
           </div>
           <div class="col-md-4 mb-3">
-            <p>Sumber Makmur adalah perusahaan jasa rental mobil terpercaya Yogyakarta. Telah melayani lebih dari 100 pelanggan perusahaan. Sumber Makmur hadir 3 kota besar di Indonesia - Sleman, Bantul, Yogyakarta</p>
+            <p>Rental mobil di Daerah Istimewa Yogyakarta jadi lebih mudah secara online. Temukan mobil rental di DIY. Rental mobil kami menyediakan pelayanan berkualitas demi kenyamanan aktifitas Anda dan keluarga.</p>
           </div>
         </div>
       </div>
@@ -101,7 +104,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-3 mb-">
+          <div class="col-md-3 mb-3">
             <div class="card">
               <img src="img/fortuner.png" class="card-img-top" alt="Fortuner" />
               <div class="card-body">
@@ -206,7 +209,7 @@
 
     <!-- Footer -->
     <footer class="footer text-center pb-5">
-      <p>Created With <i class="bi bi-suit-heart-fill"></i> By <a href="https://instagram.com/kaka_tmr/" class="text-white fw-bold">Al Kautsar Russetya Tamora</a></p>
+      <p>Created With <i class="bi bi-suit-heart-fill"></i> By <a href="https://instagram.com/kaka_tmr/" class="text-white fw-bold">Rental Mobil Sumber Makmur</a></p>
     </footer>
   </body>
 </html>
@@ -223,6 +226,7 @@ VALUES (
     '$_POST[email]', 
     '$_POST[mobil]')");
 
+		echo "<div class='alert alert-info'>Data Berhasil Tersimpan</div>";
         echo "<meta http-equiv='refresh' content='1;url=proses.php'>";
 	}
 ?>
