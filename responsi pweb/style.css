@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #2b3e59;
+}
+.jumbotron {
+  padding: 0px;
+  padding-top: 5rem;
+  background-color: #c5d3ea;
+  text-align: center;
+}
+.row {
+  margin-bottom: 20px;
+}
+#type {
+  background-color: #c5d3ea;
+}
+.footer {
+  background-color: #2b3e59;
+  color: #c5d3ea;
+}
+section {
+  padding-top: 5rem;
+}
+p {
+  font-size: 20px;
+  font-family: sans-serif;
+}
