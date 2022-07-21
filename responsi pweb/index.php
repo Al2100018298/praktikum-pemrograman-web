@@ -226,7 +226,6 @@ VALUES (
     '$_POST[email]', 
     '$_POST[mobil]')");
 
-		echo "<div class='alert alert-info'>Data Berhasil Tersimpan</div>";
         echo "<meta http-equiv='refresh' content='1;url=proses.php'>";
 	}
 ?>
