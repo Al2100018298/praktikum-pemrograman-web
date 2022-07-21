@@ -50,7 +50,7 @@
     <!-- jumbotron -->
     <section class="jumbotron">
       <center><img src="img/mobil.png" alt="RENTAL MOBIL" width="400" /></center>
-      <h1 class="display-4">Rental Mobil Sumber Makmur</h1>
+      <h1 class="display-4">Rental Mobil Jaya Abadi</h1>
       <p class="lead">Daerah Istimewa Yogyakarta</p>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
@@ -66,12 +66,12 @@
       <div class="container">
         <div class="row text-center">
           <div class="col">
-            <h2>Tentang Sumber Makmur</h2>
+            <h2>Tentang Jaya Abadi</h2>
           </div>
         </div>
         <div class="row justify-content-center text-center">
           <div class="col-md-4 mb-3">
-            <p>Sumber Makmur adalah perusahaan jasa rental mobil terpercaya Yogyakarta. Telah melayani lebih dari 100 pelanggan perusahaan. Sumber Makmur hadir 3 kota besar di Provinsi DIY - Sleman, Bantul, Yogyakarta</p>
+            <p>Jaya Abadi adalah perusahaan jasa rental mobil terpercaya Yogyakarta. Telah melayani lebih dari 100 pelanggan perusahaan. Sumber Makmur hadir 3 kota besar di Provinsi DIY - Sleman, Bantul, Yogyakarta</p>
           </div>
           <div class="col-md-4 mb-3">
             <p>Rental mobil di Daerah Istimewa Yogyakarta jadi lebih mudah secara online. Temukan mobil rental di DIY. Rental mobil kami menyediakan pelayanan berkualitas demi kenyamanan aktifitas Anda dan keluarga.</p>
@@ -209,7 +209,7 @@
 
     <!-- Footer -->
     <footer class="footer text-center pb-5">
-      <p>Created With <i class="bi bi-suit-heart-fill"></i> By <a href="https://instagram.com/kaka_tmr/" class="text-white fw-bold">Rental Mobil Sumber Makmur</a></p>
+      <p>Created With <i class="bi bi-suit-heart-fill"></i> By <a href="https://instagram.com/kaka_tmr/" class="text-white fw-bold">Rental Mobil Jaya Abadi</a></p>
     </footer>
   </body>
 </html>
