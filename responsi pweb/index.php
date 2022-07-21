@@ -31,13 +31,13 @@
               <a class="nav-link active" aria-current="page" href="#home">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#about">About</a>
+              <a class="nav-link" href="#about">Tentang</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#type">Car Type</a>
+              <a class="nav-link" href="#type">Mobil</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#contact">Contact</a>
+              <a class="nav-link" href="#contact">Pesan</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="lihat.php">Daftar Pemesan</a>
@@ -66,7 +66,7 @@
       <div class="container">
         <div class="row text-center">
           <div class="col">
-            <h2>About</h2>
+            <h2>Tentang Sumber Makmur</h2>
           </div>
         </div>
         <div class="row justify-content-center text-center">
@@ -92,7 +92,7 @@
       <div class="container">
         <div class="row text-center">
           <div class="col">
-            <h2>Car Type</h2>
+            <h2>Pilihan Mobil</h2>
           </div>
         </div>
         <div class="row">
@@ -152,7 +152,7 @@
       <div class="container">
         <div class="row text-center">
           <div class="col">
-            <h2>Contact Me</h2>
+            <h2>Pesan Sekarang</h2>
           </div>
         </div>
         <div class="container">
